@@ -14,15 +14,16 @@ This project is a clone of Myntra's homepage, built using **HTML** and **CSS**. 
 The project is organized as follows:
 
 Myntra-Clone/
-├── index.html           
-├── style.css            
-├── images/              
-│   ├── categories/         
-│   ├── offers/
-│   ├── banner.jpg
-│   ├──myntra_logo.webp 
-│   ├──Screenshot_myntra_clone                   
-├── README.md  
+├── index.html           # Main HTML file
+├── style.css            # CSS file for styling
+├── images/              # Folder containing images used in the project
+│   ├── categories/      # Subfolder for category-specific images
+│   ├── offers/          # Subfolder for offers and banners
+│   │   └── banner.jpg   # Example banner image
+│   └── myntra_logo.webp # Myntra logo file
+├── screenshots/         # Folder for storing project screenshots
+│   └── homepage-preview.png # Example screenshot of the homepage
+├── README.md            # Project description and details
 
 ## 📸 Screenshots
 ### Homepage Preview:
