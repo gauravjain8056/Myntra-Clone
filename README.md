@@ -26,7 +26,7 @@ Myntra-Clone/
 
 ## 📸 Screenshots
 ### Homepage Preview:
-![Screenshot](images/Screenshot_myntra_clone.png)
+![Screenshot](images/screenshot_myntra_clone.png)
 
 ## 🛠️ Technologies Used
 - **HTML**: For structuring the content.
